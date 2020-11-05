@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViejoFormulario</string>
+    <string name="etNombre">Nombre</string>
+    <string name="tvFecha">Fecha de Nacimiento</string>
+    <string name="etTelefono">Telefono</string>
+    <string name="etMail">E-Mail</string>
+    <string name="etDescripcion">Descripcion</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="tvConfirme_datos">Confirmar Datos</string>
+    <string name="btnEditar_datos">Editar Datos</string>
+</resources>
